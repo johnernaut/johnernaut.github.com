@@ -1,0 +1,8 @@
+name: "John Johnson"
+description: "Open-source ramblings."
+
+paginate: 10
+
+pygments: true
+permalink: pretty
+markdown: rdiscount
