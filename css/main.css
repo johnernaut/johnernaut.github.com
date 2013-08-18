@@ -1912,17 +1912,15 @@ button.close {
   -webkit-appearance: none; }
 
 .container {
-  width: 58%;
+  width: 100%;
   padding-top: 50px;
   padding-bottom: 50px;
-  margin-left: 28%;
-  max-width: 640px; }
+  max-width: 900px; }
 
 .sidebar {
-  width: 25%;
-  border-right: 1px solid #dddddd;
-  position: fixed;
+  width: 70%;
   height: 100%;
+  margin: 0 auto;
   max-width: 500px;
   top: 0;
   left: 0; }
@@ -1970,6 +1968,9 @@ button.close {
     border-radius: 20px;
     text-decoration: none;
     font-size: 14px; }
+.sidebar-inner .social a:hover {
+  border: 1px solid #bbbbbb;
+}
 
 article {
   border-bottom: 1px solid #dddddd;
