@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "counting-bits",
+    "description": "",
+    "home_page_url": "http://johnjohnson.cc",
+    "feed_url": "http://johnjohnson.cc/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "John Johnson"
+    },
+    "items": [
+        {
+            "id": "http://johnjohnson.cc/hello-world.html",
+            "url": "http://johnjohnson.cc/hello-world.html",
+            "title": "Hello, world!",
+            "content_html": "A sub-par post with sub-par content.",
+            "author": {
+                "name": "John Johnson"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-06T15:01:19-05:00",
+            "date_modified": "2017-08-06T14:55:49-05:00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>counting-bits</title>
+    <link href="http://johnjohnson.cc/feed.xml" rel="self" />
+    <link href="http://johnjohnson.cc" />
+    <updated>2017-08-06T15:01:19-05:00</updated>
+    <author>
+        <name>John Johnson</name>
+    </author>
+    <id>http://johnjohnson.cc</id>
+
+    <entry>
+        <title>Hello, world!</title>
+        <author>
+            <name>John Johnson</name>
+        </author>
+        <link href="http://johnjohnson.cc/hello-world.html"/>
+        <id>http://johnjohnson.cc/hello-world.html</id>
+
+        <updated>2017-08-06T14:55:49-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                A sub-par post with sub-par content.
+            ]]>
+        </content>
+    </entry>
+</feed>
